@@ -10,4 +10,5 @@ def my_collect(collection)
   new_collection
 end
 
-collection.
+my_collect(array) do |i|
+end
